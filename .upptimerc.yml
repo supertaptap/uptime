@@ -5,12 +5,15 @@ repo: uptime # The name of this repository
 sites:
   - name: Landing TapTap
     url: https://www.taptapapp.com
+    icon: https://prototype-taptapapp.s3.amazonaws.com/assets/web/imgs/fav16rojo.png
   - name: Customer
-    url: https://g-customer.taptapapp.com/api/v1
+    url: $PREFIX_DOMAIN_ECOMcustomer$API_HEALTH_ECOM
   - name: Product
-    url: https://g-product.taptapapp.com/api/v1
+    url: $PREFIX_DOMAIN_ECOMproduct$API_HEALTH_ECOM
   - name: Order
-    url: https://g-order.taptapapp.com/api/v1
+    url: $PREFIX_DOMAIN_ECOMorder$API_HEALTH_ECOM
+  - name: Payment
+    url: $PREFIX_DOMAIN_ECOMpayment$API_HEALTH_ECOM
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,8 +22,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Super Tap Tap Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Uptime** monitor and status page, powered entirely by GitHub."
+  introMessage: Super Tap Tap publica la disponibilidad del servicio en la tabla siguiente. Vuelva a consultar aquí en cualquier momento para obtener información de estado actual. Si experimenta un problema operativo en tiempo real con uno de nuestros servicios que no se describe a continuación, infórmenos enviando un correo a it@supertaptap.com para enviar un informe de problema de servicio.
   navbar:
     - title: Status
       href: /
