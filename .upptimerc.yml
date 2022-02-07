@@ -14,6 +14,14 @@ sites:
     url: $PREFIX_DOMAIN_ECOMorder$API_HEALTH_ECOM
   - name: Payment
     url: $PREFIX_DOMAIN_ECOMpayment$API_HEALTH_ECOM
+  - name: Benefit
+    url: $PREFIX_DOMAIN_ECOMbenefit$API_HEALTH_ECOM
+  - name: Family
+    url: $PREFIX_DOMAIN_ECOMfamily$API_HEALTH_ECOM
+  - name: Location
+    url: $PREFIX_DOMAIN_ECOMlocation$API_HEALTH_ECOM
+  - name: Recurrence
+    url: $PREFIX_DOMAIN_ECOMrecurrence$API_HEALTH_ECOM
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
