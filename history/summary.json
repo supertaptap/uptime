@@ -4,19 +4,19 @@
     "url": "https://www.taptapapp.com",
     "icon": "https://prototype-taptapapp.s3.amazonaws.com/assets/web/imgs/fav16rojo.png",
     "slug": "landing-tap-tap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 668,
-    "timeWeek": 671,
-    "timeMonth": 568,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 490,
+    "timeDay": 739,
+    "timeWeek": 688,
+    "timeMonth": 576,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2022-06-25": 0
+      "2022-06-25": 12
     }
   },
   {
