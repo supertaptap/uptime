@@ -136,19 +136,19 @@
     "url": "$PREFIX_DOMAIN_ECOMlocation$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "location",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 318,
-    "timeWeek": 219,
-    "timeMonth": 228,
+    "timeDay": 310,
+    "timeWeek": 230,
+    "timeMonth": 230,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 30
     }
   },
   {
