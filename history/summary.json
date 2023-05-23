@@ -78,9 +78,9 @@
     "url": "$PREFIX_DOMAIN_ECOMpayment$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "payment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -90,6 +90,7 @@
     "timeMonth": 333,
     "timeYear": 325,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-03-01": 633,
       "2023-01-30": 26
     }
