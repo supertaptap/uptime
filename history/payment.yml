@@ -1,7 +1,7 @@
 url: $PREFIX_DOMAIN_ECOMpayment$API_HEALTH_ECOM
 status: up
 code: 200
-responseTime: 418
-lastUpdated: 2023-09-03T23:14:53.307Z
+responseTime: 357
+lastUpdated: 2023-09-04T23:14:34.589Z
 startTime: 2022-02-07T17:18:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
