@@ -43,19 +43,19 @@
     "url": "$PREFIX_DOMAIN_ECOMproduct$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "product",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "47.44%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "99.86%",
     "time": 209,
-    "timeDay": 5225,
-    "timeWeek": 1436,
-    "timeMonth": 518,
+    "timeDay": 3522,
+    "timeWeek": 1289,
+    "timeMonth": 505,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-03-01": 0
+      "2024-03-01": 757
     }
   },
   {
@@ -86,7 +86,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.96%",
     "time": 325,
     "timeDay": 307,
     "timeWeek": 342,
