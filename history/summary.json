@@ -25,29 +25,31 @@
     "url": "$PREFIX_DOMAIN_ECOMcustomer$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 240,
     "timeMonth": 237,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 3
+    }
   },
   {
     "name": "Product",
     "url": "$PREFIX_DOMAIN_ECOMproduct$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "product",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.86%",
     "time": 209,
     "timeDay": 148,
@@ -55,6 +57,7 @@
     "timeMonth": 185,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2024-07-04": 3,
       "2024-03-01": 757
     }
   },
@@ -63,10 +66,10 @@
     "url": "$PREFIX_DOMAIN_ECOMorder$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "order",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
@@ -74,7 +77,9 @@
     "timeWeek": 199,
     "timeMonth": 196,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 2
+    }
   },
   {
     "name": "Payment",
@@ -101,10 +106,10 @@
     "url": "$PREFIX_DOMAIN_ECOMbenefit$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "benefit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
@@ -112,17 +117,19 @@
     "timeWeek": 257,
     "timeMonth": 249,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 2
+    }
   },
   {
     "name": "Family",
     "url": "$PREFIX_DOMAIN_ECOMfamily$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "family",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
@@ -130,34 +137,38 @@
     "timeWeek": 277,
     "timeMonth": 267,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 1
+    }
   },
   {
     "name": "Location",
     "url": "$PREFIX_DOMAIN_ECOMlocation$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "location",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
+    "time": 271,
     "timeDay": 201,
     "timeWeek": 934,
     "timeMonth": 414,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 1
+    }
   },
   {
     "name": "Recurrence",
     "url": "$PREFIX_DOMAIN_ECOMrecurrence$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "recurrence",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -166,6 +177,8 @@
     "timeWeek": 242,
     "timeMonth": 259,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 0
+    }
   }
 ]
