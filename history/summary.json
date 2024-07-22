@@ -6,8 +6,8 @@
     "slug": "landing-tap-tap",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2805,
@@ -16,7 +16,6 @@
     "timeMonth": 2616,
     "timeYear": 2781,
     "dailyMinutesDown": {
-      "2024-07-21": 2,
       "2024-07-18": 21,
       "2024-04-23": 18,
       "2023-07-24": 17
