@@ -127,9 +127,9 @@
     "url": "$PREFIX_DOMAIN_ECOMfamily$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "family",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -139,6 +139,7 @@
     "timeMonth": 300,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2024-10-24": 0,
       "2024-07-04": 279
     }
   },
