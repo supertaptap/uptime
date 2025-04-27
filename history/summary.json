@@ -4,18 +4,19 @@
     "url": "https://www.taptapapp.com",
     "icon": "https://prototype-taptapapp.s3.amazonaws.com/assets/web/imgs/fav16rojo.png",
     "slug": "landing-tap-tap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2799,
+    "time": 2800,
     "timeDay": 1783,
     "timeWeek": 2622,
     "timeMonth": 2434,
     "timeYear": 2831,
     "dailyMinutesDown": {
+      "2025-04-27": 1,
       "2024-07-18": 21
     }
   },
@@ -84,9 +85,9 @@
     "url": "$PREFIX_DOMAIN_ECOMpayment$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "payment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -96,6 +97,7 @@
     "timeMonth": 407,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2025-04-27": 0,
       "2024-07-31": 39,
       "2024-07-18": 20
     }
