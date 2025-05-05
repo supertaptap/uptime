@@ -169,19 +169,19 @@
     "url": "$PREFIX_DOMAIN_ECOMrecurrence$API_HEALTH_ECOM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "recurrence",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.94%",
     "time": 280,
-    "timeDay": 192,
-    "timeWeek": 273,
-    "timeMonth": 279,
+    "timeDay": 193,
+    "timeWeek": 263,
+    "timeMonth": 276,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-05-05": 0,
+      "2025-05-05": 17,
       "2024-07-04": 278
     }
   }
